@@ -1,1 +1,1 @@
-public record Todo(Guid Id, string Title, string Name, bool Done);
+public record Todo(Guid Id, string Title, bool Done);
